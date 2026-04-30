@@ -1,6 +1,6 @@
 # 👨‍💻 Kauã Vinicius
 
-My name is Kauã Vinicius, I’m 18 years old, and I’m from São Paulo, Brazil. I am currently studying high school with a technical course in Systems Development at Etec Itaquera 1. I plan to pursue a degree in Software Engineering, with a specialization in Artificial Intelligence and AWS technologies. I’m deeply passionate about technology and innovation.
+My name is Kauã Vinicius, I am 18 years old and I am from the east side of São Paulo, Brazil. I have a technical degree in Systems Analysis and Development from Etec de Itaquera I and I am currently pursuing a higher education degree in Systems Analysis and Development at Fatec Ferraz de Vasconcelos. I have been studying web development, AWS, back-end development with Java and Go, as well as computer networks and security concepts, always developing projects to improve in practice.
 
 ---
 
