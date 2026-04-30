@@ -1,7 +1,6 @@
 # 👨‍💻 Kauã Vinicius
 
-My name is Kauã Vinicius, I am 18 years old and I am from the east side of São Paulo, Brazil. I have a technical degree in Systems Analysis and Development from Etec de Itaquera I and I am currently pursuing a higher education degree in Systems Analysis and Development at Fatec Ferraz de Vasconcelos. I have been studying web development, AWS, back-end development with Java and Go, as well as computer networks and security concepts, always developing projects to improve in practice.
-
+Me chamo Kauã Vinicius, tenho 18 anos e sou da zona leste de São Paulo, Brasil. Técnico em ADS pela Etec de Itaquera I e atualmente cursando ensino superior em ADS na Fatec Ferraz de Vasconcelos. Estudando desenvolvimento web, AWS, back-end com Java e Go, redes e segurança, sempre evoluindo com projetos.
 ---
 
 ### 🧬 Languages and Tools
